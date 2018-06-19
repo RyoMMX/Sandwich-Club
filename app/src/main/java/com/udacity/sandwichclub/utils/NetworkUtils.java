@@ -25,8 +25,8 @@ public class NetworkUtils {
     private static final String TO_PARAMETER = "to";
 
     private static final String Q_VALUE = "sandwich";
-    private static final String APP_ID_VALUE = "29f6d67d";
-    private static final String APP_KEY_VALUE = "6be0713ccafecec7a9ebd3a4b6a744c8";
+    private static final String APP_ID_VALUE = "/*todo: create your own ID_value*/";
+    private static final String APP_KEY_VALUE = "/*todo: create your own key_value*/";
 
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
